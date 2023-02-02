@@ -1,0 +1,24 @@
+    1  sudo yum -y install git
+    2  git config --global user.name "Juniper-Fox"
+    3  git config --global user.email aiden.ressa@angrykitten.com
+    4  git clone https://github.com/Juniper-Fox/IT252_Cloud9
+    5  cd
+    6  cd IT252_Cloud9
+    7  ls
+    8  cd environment/
+    9  cd IT252_Cloud9
+   10  git status
+   11  git commit
+   12  git status
+   13  git push
+   14  git config --global user.name Juniper-Fox
+   15  git commit
+   16  git push
+   17  git add --all
+   18  git status
+   19  git commit
+   20  git commit -m
+   21  git commit -m Created the files
+   22  git commit -m "Created the files"
+   23  git push
+   24  history > commands.txt
